@@ -1,5 +1,4 @@
-
-vardi = {
+vardi = [
 'about', 
 'account', 
 'acid', 
@@ -853,4 +852,4 @@ vardi = {
 'bernhard', 
 'breytenbach', 
 'android'
-}
+]
