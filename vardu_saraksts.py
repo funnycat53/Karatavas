@@ -634,8 +634,7 @@ vardi = [
 'sense', 
 'separate', 
 'serious', 
-'servant', 
-'sex', 
+'servant',  
 'shade', 
 'shake', 
 'shame', 
@@ -851,5 +850,4 @@ vardi = [
 'young', 
 'bernhard', 
 'breytenbach', 
-'android'
-]
+'android']
